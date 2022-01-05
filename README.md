@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sanjomasu
+- 👀 I’m interested in pursuing a career in software engineering
+- 🌱 I’m currently learning programming with Python, natural-language processing (NLP), and distributed systems
+- 💞️ Apart from CS, I'm passionate about visual art and design and looking to improve my skills in my off-time
+- 📫 Contact: sanjomasu@gmail.com
